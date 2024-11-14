@@ -1,0 +1,5 @@
+ID: 105
+Time Sent: Thu Nov 14 09:03:39 2024
+Sender: Sender_105
+Receiver: Receiver_105
+Content: Message content for ID 105

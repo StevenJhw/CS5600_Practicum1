@@ -1,0 +1,5 @@
+ID: 102
+Time Sent: Thu Nov 14 09:03:39 2024
+Sender: Sender_102
+Receiver: Receiver_102
+Content: Message content for ID 102

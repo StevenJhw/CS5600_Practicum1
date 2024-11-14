@@ -1,0 +1,5 @@
+ID: 72
+Time Sent: Thu Nov 14 09:03:39 2024
+Sender: Sender_72
+Receiver: Receiver_72
+Content: Message content for ID 72

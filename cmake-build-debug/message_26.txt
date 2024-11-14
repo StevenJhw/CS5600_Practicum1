@@ -1,0 +1,5 @@
+ID: 26
+Time Sent: Thu Nov 14 09:03:39 2024
+Sender: Sender_26
+Receiver: Receiver_26
+Content: Message content for ID 26

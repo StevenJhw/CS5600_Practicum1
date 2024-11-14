@@ -1,0 +1,5 @@
+ID: 59
+Time Sent: Thu Nov 14 09:03:39 2024
+Sender: Sender_59
+Receiver: Receiver_59
+Content: Message content for ID 59

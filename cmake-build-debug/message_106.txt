@@ -1,0 +1,5 @@
+ID: 106
+Time Sent: Thu Nov 14 09:03:39 2024
+Sender: Sender_106
+Receiver: Receiver_106
+Content: Message content for ID 106

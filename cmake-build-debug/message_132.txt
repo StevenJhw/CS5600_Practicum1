@@ -1,0 +1,5 @@
+ID: 132
+Time Sent: Thu Nov 14 09:03:39 2024
+Sender: Sender_132
+Receiver: Receiver_132
+Content: Message content for ID 132

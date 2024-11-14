@@ -1,0 +1,5 @@
+ID: 70
+Time Sent: Thu Nov 14 09:03:39 2024
+Sender: Sender_70
+Receiver: Receiver_70
+Content: Message content for ID 70
